@@ -1,0 +1,10 @@
+﻿Province de Flandre-Occidentale
+Province de Flandre-Orientale
+Province d'Anvers
+Province de Limbourg
+Province du Brabant flamand
+Province du Brabant wallon
+Province de Hainaut
+Province de Liège
+Province de Namur
+Province de Luxembourg
